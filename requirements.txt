@@ -1,0 +1,15 @@
+pandas
+numpy
+google-cloud-bigquery
+google-cloud-bigquery-storage
+xgboost
+scikit-learn
+shap
+ib_insync
+streamlit
+streamlit-aggrid
+meta-ai-api
+nasdaq-data-link
+plotly-express
+db-dtypes
+python-dotenv

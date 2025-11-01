@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "boreal-pride-417020",
+  "private_key_id": "20d9c513a2da40266c9a6cac9ec0a37843048441",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC4tHz4AxZoM6/v\nMvWOBhbKB2kANmGtsbd3l95oX7yazJpRVU5260kXdNQUHAwjLPuPksVTX7s5xZ2y\ng05Y3bnrvbpi4x5dW6gTG3CTiFS9P9Z35fLFO9rrySJko1V0JohzCYVsxEbLShcG\njNSSAmsdaGx4FZjWjyv+HWqhcXHwcYsKvPlGah27PHuLFcQezsFC4XoDCEaojgM8\nzphoROEXOJLyhF3rV3lXqDjgO0BFigj534CrRMYuknUUfiIAZgYjR0KaBHpmRTkX\nHo+tTeFyV0SDjaSsWpP/CP+3dy5F3peA/WLYSgkUQvW1GJT1Xa8DLE9neun8Z3Cz\n4Ta169A/AgMBAAECggEAA0n7e7MaYAqjlF/U7Y2ANGLDZOSTArPKb4+9vyANTLhd\n+xrIxedUqt1CtYT2Vl4DsL/NUbm/rLyvHTGnYH+6Qs9jFUW0EbeDG6v+ajIgSCpt\n2D64/vgc4tv3B9G8wM+62EmQHaq1FAOiu1QgqOTwIVrtq4m+6fssrl65ulw5yi1D\noZLehZp3lpAAZhdfPi1E2ZFbiNwgWfS8j+fsAyBTU93P+QZykZvDYA8vNSrXi3/y\nDGJLL2+LH5zp/OBnd6julQlnLHZSzZkZMXoUQk39WYkuSkIeRDbC1/mxz25vJdNS\nIOLfL/xWmSs9Vub/oDvujJ7cri16gwswEQt37ZWdCQKBgQDyILqFJZ6jqzJt+IGM\nGGZbO7EV/9Ej+kRaaPIjiPKTE31wYNlVEHpCVOuJa2RiR7SEsqF/RxaUg8ywoaoO\nCkyo/kMZZNrnsvWpx3cuFgXFJhSGlelukuMHrmo9IrpwngxjbJKbiwnkcs2qNUdk\nklVZgi/cCwWvHppAVeS7tTJJmwKBgQDDSYsY/NI8MelgQM5HCnamxt6Lc2K+MXMB\nh6KP2AIi+gxV768SfqhZ7cZHZlmsHtnIpe7oqY9AHGVVfs682+gsO507cdFUavEP\nE0S5ePRjef3mMf55l2CAhuei9vWmIF6bkzXlKrHdqgyLvgr8WJmaC1DXKfgKRaCi\nKsGyRXygLQKBgCa/hhn4w0J+Czv+IP1Cil7fVp+mqNmRG488bEOzjt5qqBBr71vl\nnysuW+NKBG6V+xWhYKb1wW9TCFbcCFLm4w3IYwSVV1LtGNNq0G/XpmS+i1pec1T2\nvM5l4yqVfDC5mlHu9ideQN8GYFN040/8+xuv8ejM+sPjqdvR4yEHBl0xAoGBAJ/Q\n0s2rMV3jtsp3nphSvtEzlLJoxllB3I1W87lmHDGFkozNbufi0WFvDkImR6JtSOtE\nqGStRrc/xcoW0ZeLG9D/JGied6HvNsGQkkB69P1nu1okdc4KDQaB4JTkKBpBCUum\nSIf3zcHKxSOjbhgfZezD7+91wDCf1JqCBSwgY6ItAoGAR744FBOKWEDJ8HrheGRR\nF0s8RIbaT+aKmc6mXn7DRlBrFwJoS1oX0vEBjQ3Yvbd/5KmGnw1zkTXeBw+yRo9A\nm5DNnvH9GoCZm0KmIybAuYCDKGunGJmrvjoyJO6BCghkD0OqE7ZxsrndQLOhJ0gH\ntw7swB6X7TKdTP6Yg0eReK8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "hanson-bigquery@boreal-pride-417020.iam.gserviceaccount.com",
+  "client_id": "100899063331954540174",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hanson-bigquery%40boreal-pride-417020.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

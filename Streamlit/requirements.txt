@@ -1,0 +1,9 @@
+pandas
+numpy
+google-cloud-bigquery
+google-cloud-bigquery-storage
+streamlit
+streamlit-aggrid
+plotly-express
+db-dtypes
+

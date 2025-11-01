@@ -1,0 +1,32 @@
+
+## initiate cloud
+./google-cloud-sdk/bin/gcloud init
+
+## start Docker - open app
+
+## build docker image
+docker build -f Dockerfile -t us-west1-docker.pkg.dev/boreal-pride-417020/equity-screen-prod/all_scripts:latest ./
+
+docker push us-west1-docker.pkg.dev/boreal-pride-417020/equity-screen-prod/all_scripts:latest
+
+
+## build docker image for streamlit
+docker build -f Dockerfile -t us-west1-docker.pkg.dev/boreal-pride-417020/streamlit/dashboard:latest ./
+
+docker push us-west1-docker.pkg.dev/boreal-pride-417020/streamlit/dashboard:latest
+
+
+
+## build docker image for crypto
+docker build -f Dockerfile -t us-west1-docker.pkg.dev/boreal-pride-417020/crypto-prod/all_scripts:latest ./
+
+docker push us-west1-docker.pkg.dev/boreal-pride-417020/crypto-prod/all_scripts:latest
+
+
+## image url
+IMAGE_URI=us-central1-docker.pkg.dev/${PROJECT_ID}/${REPO_NAME}/${IMAGE_NAME}:${IMAGE_TAG}
+us-west1-docker.pkg.dev/boreal-pride-417020/equity-screen-prod/all_scripts:latest
+
+## test docker in local environment
+docker run -p 8080:8080 us-west1-docker.pkg.dev/boreal-pride-417020/streamlit/dashboard:latest
+
